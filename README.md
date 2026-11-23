@@ -45,5 +45,5 @@ Maybe there is a rule to follow here, the one Epicurus articulated in his letter
 He said a plausible explanation should never be rejected as long as it is consistent with visible appearances.
 
 One characteristic of a political ideologue is rejecting an explanation for reasons that have nothing to do with its fit to the facts.
-Because it are flattering to the wrong people, or it undermines an important call to action.
+Because it is flattering to the wrong people, or it undermines an important call to action.
 You just don't have to do this.
