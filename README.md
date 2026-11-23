@@ -23,7 +23,7 @@ Now I don't know what would have happened had nuclear been allowed to expand and
 But I am not back in my state of epistemic innocence, before I had any knowledge or opinions on the matter at all.
 Instead, I know that overregulation was important, and so was gas, and so was weak electricity demand growth.
 These could have all been equally important, or one could be dominant and make the others negligible.
-I am uncertain about the counterfactual is because I know of multiple possibilities with different predictions.
+I am uncertain about the counterfactual because I know of multiple possibilities with different predictions.
 
 ## Sophisticated uncertainty
 
