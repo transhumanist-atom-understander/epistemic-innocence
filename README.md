@@ -3,41 +3,48 @@ But it seemed to me that that's just what adults were like, and I was protected 
 I _had not yet_ acquired an ideology.
 Just as I was already beginning to make myself ridiculous acting on newly acquired sexual urges, perhaps becoming overconfident of grand narratives was just part of growing up?
 
-I did in fact acquire an ideology, more or less what you would expect given that I am posting on LessWrong.
-Yet, my fears have not materialized in this sense: I do not believe my group's mythology.
+Now I have acquired an ideology (tranhumanist, for one thing).
+And my ideology does come with convenient narratives.
+Yet, if you'll let me flatter myself, I have not acquired an ideologue's overconfidence.
 
-For example: what _would have happened_ if nuclear power had not been so firmly opposed?
+## Example: nuclear power
 
-Many of my ideology-mates think they know the answer: the atomic space age futurist dreams would have come true.
-I don't know the answer.
+In my subculture of tech enthusiasts, you'll hear that the world was ready to transition to nuclear power in the '70s, in which case we would have avoided global warming.
+However, this technological revolution was stopped by the anti-nuclear movement and burdensome safety regulation.
 
-I was born not knowing the answer, but far from protecting my innocence, I have read a lot about the issue and been caught up in one narrative after another.
-I've learned that there have always been three main challenges to the viability of nuclear power: overregulation, competition from natural gas, and weak demand growth for power.
-It is easy to say that, but hard to rank their importance.
+Probably at some point I was caught up in this narrative.
+But because I was interested in energy, I read widely, and got caught up in [other narratives](https://www.lesswrong.com/posts/rEdEKoFsnGXityjcL/nuclear-may-have-had-bigger-problems-than-over-regulation).
+That nuclear could not provide return on investment when electricity use was lower than forecasted, and natural gas plants could be built with cheap equipment and surprisingly abundant fuel.
 
-Consider natural gas.
-Early investment in nuclear coincided with fears of shortages of natural resources.
-But in the '80s, gas became abundant from offshore drilling.
-In the UK, for example, Margaret Thatcher had planned to start a nuclear power plant a year, but instead of transitioning from coal to nuclear, the UK transitioned from coal to gas.
-In the '00s in the US, many nuclear plants were approved as part of a planned "nuclear rennaissance", only for the financial case to be destroyed by fracking.
+Now I don't know what would have happened I had nuclear been allowed to expand and develop.
+But I am not back in my state of epistemic innocence, before I had any knowledge or opinions on the matter at all.
+Instead, I know that overregulation was important, and so was gas, and so was weak electricity demand growth.
+These could have all been equally important, or one could be dominant and make the others negligible.
+My uncertainty about the counterfactual is because I know of multiple possibilities with different predictions.
 
-Was it destroyed by fracking?
-What about the '08 financial crisis not only cutting off financing, but halting electricity demand growth?
-Imagine a world where the introduction of Tesla's first car was in a booming economy, not a historic low in new car purchases.
+## Sophisticated uncertainty
 
-So was it gas, was it stagnant demand... wait, did I really just tell the story of the failed '00s nuclear rennaissance without mentioning Fukushima?
+By sophisticated uncertainty, I mean: uncertainty about what a system will do (or would have done), resulting from a ensemble of explicit possibilities for how the system works.
 
-This is what I mean by getting caught up in one narrative after another.
+In a state of epistemic innocence, I may have said: "the probability is 50% because it can happen or not".
+If I have achieved sophisticated uncertainty, I can say: "the probability is 50% because there's ten ways this could work, and it happens in five of them".
 
-What would have happened had it not been for the anti-nuclear movement?
-Maybe once in a state of epistemic innocence I could have said: nuclear-powered desalination making deserts bloom, or maybe nothing, who knows.
-Now, I can say, it depends.
-It depends on the relative importance of the three main factors.
+I was born having no idea what would happen.
+It is no credit to me if I simply preserve that state of epistemic innocence.
 
-I'll add that on LessWrong and the associated blogosphere, overregulation is just about the only explanation I hear about.
-But when I read quotes from nuclear execs, or read a Vaclav Smil book, gas and stagnant demand are more emphasized.
-I don't think this can be justified by the facts.
-Instead, I think part of my ideology's mythology is that the atomic space age would have happened, but was stopped by its political opponents.
+So I read and observe and dicuss and hypothesize.
+If I still cannot know what will happen, I do at least have something I didn't start with: the ensemble of explanations.
 
-The reason I'm not a believer is just because I'm familiarize myself with a few different ways the world could work which have different implications about this question.
-It is because I am open to such narratives, enjoy them even, that I am not overconfident in the implications of any one narrative, where it conflicts with the others.
+## Avoiding overconfidence
+
+The good news I could deliver to my younger self is that overconfidence is not the inevitable or even the natural consequence of sophistication.
+I am not protected by overconfidence by a skeptical filter, demanding randomize control trials before I consider a possibility.
+In fact I tend to get carried away by a narrative, and temporarily see everything through its perspective.
+But when the honeymoon is over, I am not loyal: I'm ready to let it happen again.
+
+Maybe there is a rule to follow here, the one Epicurus articulated in his letter to Pythocles.
+He said a plausible explanation should never be rejected unless it is inconsistent with visible appearances.
+
+One characteristic of a political ideologue is rejecting explanations for reasons that have nothing to do with their fit to the facts.
+That they are flattering to the wrong people, or that they undermine an important call to action.
+You can just... not do this.
