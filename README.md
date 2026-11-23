@@ -3,7 +3,7 @@ But it seemed to me that that's just what adults were like, and I was protected 
 I _had not yet_ acquired an ideology.
 Just as I was already beginning to make myself ridiculous acting on newly acquired sexual urges, perhaps becoming overconfident of grand narratives was just part of growing up?
 
-Now I have acquired an ideology (tranhumanist, for one thing).
+Now I have acquired an ideology (transhumanist, for one thing).
 And my ideology does come with convenient narratives.
 Yet, if you'll let me flatter myself, I have not acquired an ideologue's overconfidence.
 
@@ -16,7 +16,7 @@ Probably at some point I was caught up in this narrative.
 But because I was interested in energy, I read widely, and got caught up in [other narratives](https://www.lesswrong.com/posts/rEdEKoFsnGXityjcL/nuclear-may-have-had-bigger-problems-than-over-regulation).
 That nuclear could not provide return on investment when electricity use was lower than forecasted, and natural gas plants could be built with cheap equipment and surprisingly abundant fuel.
 
-Now I don't know what would have happened I had nuclear been allowed to expand and develop.
+Now I don't know what would have happened had nuclear been allowed to expand and develop.
 But I am not back in my state of epistemic innocence, before I had any knowledge or opinions on the matter at all.
 Instead, I know that overregulation was important, and so was gas, and so was weak electricity demand growth.
 These could have all been equally important, or one could be dominant and make the others negligible.
@@ -24,7 +24,7 @@ My uncertainty about the counterfactual is because I know of multiple possibilit
 
 ## Sophisticated uncertainty
 
-By sophisticated uncertainty, I mean: uncertainty about what a system will do (or would have done), resulting from a ensemble of explicit possibilities for how the system works.
+By sophisticated uncertainty, I mean: uncertainty about what a system will do (or would have done), resulting from an ensemble of explicit possibilities for how the system works.
 
 In a state of epistemic innocence, I may have said: "the probability is 50% because it can happen or not".
 If I have achieved sophisticated uncertainty, I can say: "the probability is 50% because there's ten ways this could work, and it happens in five of them".
@@ -32,13 +32,13 @@ If I have achieved sophisticated uncertainty, I can say: "the probability is 50%
 I was born having no idea what would happen.
 It is no credit to me if I simply preserve that state of epistemic innocence.
 
-So I read and observe and dicuss and hypothesize.
+So I read and observe and discuss and hypothesize.
 If I still cannot know what will happen, I do at least have something I didn't start with: the ensemble of explanations.
 
 ## Avoiding overconfidence
 
 The good news I could deliver to my younger self is that overconfidence is not the inevitable or even the natural consequence of sophistication.
-I am not protected by overconfidence by a skeptical filter, demanding randomize control trials before I consider a possibility.
+I am not protected from overconfidence by a skeptical filter, demanding randomized controlled trials before I consider a possibility.
 In fact I tend to get carried away by a narrative, and temporarily see everything through its perspective.
 But when the honeymoon is over, I am not loyal: I'm ready to let it happen again.
 
