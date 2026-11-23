@@ -6,6 +6,10 @@ Now I have acquired an ideology (transhumanist, for one thing).
 And my ideology does come with convenient narratives.
 Yet, if you'll let me flatter myself, I have not acquired an ideologue's overconfidence.
 
+I did not protect my epistemic innocence.
+I enjoy seeing the world from a new worldview, including an ideologically charged one.
+But the result of such openness was that I became familiar with a variety of possibilities with different implications.
+
 ## Example: nuclear power
 
 In my subculture of tech enthusiasts, you'll hear that the world was ready to transition to nuclear power in the '70s, in which case we would have avoided global warming.
