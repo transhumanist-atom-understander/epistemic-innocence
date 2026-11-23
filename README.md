@@ -38,7 +38,7 @@ If I still cannot know what will happen, I do at least have something I didn't s
 
 The good news I could deliver to my younger self is that overconfidence is not the inevitable or even the natural consequence of sophistication.
 I am not protected from overconfidence by a skeptic's shield, demanding randomized controlled trials before I consider a possibility.
-In fact I tend to get carried away by a narrative, and temporarily see everything through its perspective.
+In fact I tend to get carried away by a narrative, and temporarily see everything from its perspective.
 But when the honeymoon is over, I am not loyal: I'm ready to let it happen again.
 
 Maybe there is a rule to follow here, the one Epicurus articulated in his letter to Pythocles.
