@@ -1,6 +1,5 @@
 When I was young I knew I didn't want to be a political ideologue like my parents.
 But it seemed to me that that's just what adults were like, and I was protected only by my innocence.
-I _had not yet_ acquired an ideology.
 Just as I was already beginning to make myself ridiculous acting on newly acquired sexual urges, perhaps becoming overconfident of grand narratives was just part of growing up?
 
 Now I have acquired an ideology (transhumanist, for one thing).
@@ -27,7 +26,7 @@ My uncertainty about the counterfactual is because I know of multiple possibilit
 By sophisticated uncertainty, I mean: uncertainty about what a system will do (or would have done), resulting from an ensemble of explicit possibilities for how the system works.
 
 In a state of epistemic innocence, I may have said: "the probability is 50% because it can happen or not".
-If I have achieved sophisticated uncertainty, I can say: "the probability is 50% because there's ten ways this could work, and it happens in five of them".
+If I have achieved sophisticated uncertainty, I can say: "the probability is 50% because there's these ten ways this could work, and it happens in five of them".
 
 I was born having no idea what would happen.
 It is no credit to me if I simply preserve that state of epistemic innocence.
@@ -43,8 +42,8 @@ In fact I tend to get carried away by a narrative, and temporarily see everythin
 But when the honeymoon is over, I am not loyal: I'm ready to let it happen again.
 
 Maybe there is a rule to follow here, the one Epicurus articulated in his letter to Pythocles.
-He said a plausible explanation should never be rejected unless it is inconsistent with visible appearances.
+He said a plausible explanation should never be rejected as long as it is consistent with visible appearances.
 
 One characteristic of a political ideologue is rejecting an explanation for reasons that have nothing to do with its fit to the facts.
 Because it are flattering to the wrong people, or it undermines an important call to action.
-You can just... not do this.
+You just don't have to do this.
