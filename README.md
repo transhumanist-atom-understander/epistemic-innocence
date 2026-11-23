@@ -23,20 +23,14 @@ Now I don't know what would have happened had nuclear been allowed to expand and
 But I am not back in my state of epistemic innocence, before I had any knowledge or opinions on the matter at all.
 Instead, I know that overregulation was important, and so was gas, and so was weak electricity demand growth.
 These could have all been equally important, or one could be dominant and make the others negligible.
-My uncertainty about the counterfactual is because I know of multiple possibilities with different predictions.
+I am uncertain about the counterfactual is because I know of multiple possibilities with different predictions.
 
 ## Sophisticated uncertainty
 
-By sophisticated uncertainty, I mean: uncertainty about what a system will do (or would have done), resulting from an ensemble of explicit possibilities for how the system works.
+Sophisticated uncertainty is uncertainty about what a system will do (or would have done), resulting from an ensemble of explicit possibilities for how the system works.
 
 In a state of epistemic innocence, I may have said: "the probability is 50% because it can happen or not".
 If I have achieved sophisticated uncertainty, I can say: "the probability is 50% because there's these ten ways this could work, and it happens in five of them".
-
-I was born having no idea what would happen.
-It is no credit to me if I simply preserve that state of epistemic innocence.
-
-So I read and observe and discuss and hypothesize.
-If I still cannot know what will happen, I do at least have something I didn't start with: the ensemble of explanations.
 
 ## Avoiding overconfidence
 
