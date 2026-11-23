@@ -45,6 +45,6 @@ But when the honeymoon is over, I am not loyal: I'm ready to let it happen again
 Maybe there is a rule to follow here, the one Epicurus articulated in his letter to Pythocles.
 He said a plausible explanation should never be rejected unless it is inconsistent with visible appearances.
 
-One characteristic of a political ideologue is rejecting explanations for reasons that have nothing to do with their fit to the facts.
-That they are flattering to the wrong people, or that they undermine an important call to action.
+One characteristic of a political ideologue is rejecting an explanation for reasons that have nothing to do with its fit to the facts.
+Because it are flattering to the wrong people, or it undermines an important call to action.
 You can just... not do this.
